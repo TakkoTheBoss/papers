@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Intent Realization Fidelity: Verifying That Systems Do What They Claim"
+authors:
+  - family-names: Curnow
+    given-names: Michael
+date-released: 2026-01-04
+version: 1.0
+abstract: >
+  This paper introduces Intent Realization Fidelity (IRF), a system property describing the degree to which declared intent is faithfully realized at the lowest level where effects manifest, verified through independent evidence.
+keywords:
+  - intent realization
+  - system assurance
+  - verification
+  - cyber-physical systems
+  - trust
+
